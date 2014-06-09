@@ -6,5 +6,3 @@ A chat application built using Gulp, Node and Backbone
 Demo
 ----
 http://imify.herokuapp.com/
-
-Testing to see if this effects my git or main git Readme file.
